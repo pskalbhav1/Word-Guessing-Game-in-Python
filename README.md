@@ -16,11 +16,11 @@ To utilize the basic concepts of Python like lists, file handling, functions etc
     
 ### PYTHON CONCEPTS USED:
 
-1] Python functionalities - loops, if else condition
-2] Use of functions
-3] Lists 
-4] File handling
-5] Random library
+1] Python functionalities - loops, if else condition<br>
+2] Use of functions<br>
+3] Lists <br>
+4] File handling<br>
+5] Random library<br>
 
 ### EXPECTED RESULTS:
 To have a fully functional word guessing game with multiple hardness levels.
